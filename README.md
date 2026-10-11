@@ -4,7 +4,6 @@ Repositório de apoio didático para estudantes de programação utilizando a li
 
 ![Status](https://img.shields.io/badge/Status-Em%20Constru%C3%A7%C3%A3o-orange?style=flat-square&logo=git)
 
-> [!NOTE]
 > 🚧 **Atenção:** Este material está em constante atualização conforme o andamento das aulas.
 >
 > 💡 **Sugestões ou dúvidas?** Caso queira solicitar algum exemplo específico, sugerir melhorias ou tirar dúvidas sobre o material, envie um e-mail para: [vinicassol@gmail.com](mailto:vinicassol@gmail.com).
