@@ -13,15 +13,12 @@ Repositório de apoio didático para estudantes de programação utilizando a li
 ## 📌 Sumário
 
 - [Visão Geral](#visao-geral)
-<!--
 - [Estrutura do Repositório](#estrutura-do-repositorio)
 - [Pré-requisitos](#pre-requisitos)
-- [Como Executar os Códigos](#como-executar-os-codigos)
-- [Conteúdos Abordados](#conteudos-abordados)
 - [Diretrizes para os Alunos](#diretrizes-para-os-alunos)
--->
 - [Licença](#licenca)
-
+<!-- - [Como Executar os Códigos](#como-executar-os-codigos)
+- [Conteúdos Abordados](#conteudos-abordados)-->
 ---
 
 ## <a id="visao-geral"></a>📖 Visão Geral
