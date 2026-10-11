@@ -9,19 +9,21 @@ Repositório de apoio didático para estudantes de programação utilizando a li
 > 💡 **Sugestões ou dúvidas?** Caso queira solicitar algum exemplo específico, sugerir melhorias ou tirar dúvidas sobre o material, envie um e-mail para: [vinicassol@gmail.com](mailto:vinicassol@gmail.com).
 
 ---
-<!--
+
 ## 📌 Sumário
 
 - [Visão Geral](#visao-geral)
+<!--
 - [Estrutura do Repositório](#estrutura-do-repositorio)
 - [Pré-requisitos](#pre-requisitos)
 - [Como Executar os Códigos](#como-executar-os-codigos)
 - [Conteúdos Abordados](#conteudos-abordados)
 - [Diretrizes para os Alunos](#diretrizes-para-os-alunos)
+-->
 - [Licença](#licenca)
 
 ---
--->
+
 ## <a id="visao-geral"></a>📖 Visão Geral
 
 O objetivo deste repositório é servir como base de estudo, consulta e revisão de código. Os exemplos abordam desde fundamentos de lógica e sintaxe básica até especificidades da linguagem e aspectos avançados de programação.
