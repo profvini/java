@@ -64,13 +64,12 @@ Após concluir a codificação das lacunas, execute o arquivo `Main.java`. A sa�
 | :--- | :--- |
 | **Pista mais longa** | Spa-Francorchamps (7.004 km) |
 | **Pista mais curta** | Circuito de Monte Carlo (3.337 km) |
-| **Extensão média das pistas** | ~5.305 km |
-| **Pista com mais curvas** | Circuito IFEMA Madrid ou Circuito Urbano de Baku (20 curvas) |
+| **Extensão média das pistas** | ~5.207 km |
+| **Pista com mais curvas** | Jeddah Corniche Circuit (27 curvas) |
 | **Filtro tipo "Rua"** | Monte Carlo, Las Vegas e Baku |
 
 ---
 
-## 4. Critérios de Avaliação
+## 4. Premissas
 1. **Encapsulamento:** Acesso aos atributos dos objetos realizado estritamente por meio de métodos de leitura (*getters*).
-2. **Estruturas de Repetição:** Uso correto de loops (`for`, `while` ou `for-each`) e controle de índices/acumuladores.
 3. **Preservação das Assinaturas:** Não alterar os nomes dos métodos, modificadores de acesso, listas de parâmetros ou tipos de retorno predefinidos.
