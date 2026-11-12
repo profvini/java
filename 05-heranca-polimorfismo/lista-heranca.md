@@ -23,7 +23,6 @@ Lista prática para fixar os conceitos de **herança** em Java, com enunciados d
 - [Exercício 8 — Banco: `protected` na prática](#exercício-8--banco-protected-na-prática)
 - [Exercício 9 — Hierarquia em três níveis com `toString()`](#exercício-9--hierarquia-em-três-níveis-com-tostring)
 - [Exercício 10 — Limitando a herança com `final`](#exercício-10--limitando-a-herança-com-final)
-- [📊 Critérios de avaliação](#-critérios-de-avaliação)
 - [📚 Referências](#-referências)
 
 ---
@@ -617,17 +616,6 @@ Por que os construtores executam de cima para baixo na hierarquia, mesmo que voc
 
 > [!NOTE]
 > Métodos `final` ainda são **herdados** — só não podem ser **sobrescritos**. O `Eletronico` continua chamando `calcularImposto()` normalmente.
-
----
-
-## 📊 Critérios de avaliação
-
-| Critério | Peso |
-|----------|:----:|
-| ✅ Código compila sem erros | 20% |
-| 🧪 Cenários de teste produzem a saída esperada | 40% |
-| 🧬 Uso correto de `super`, `@Override` e modificadores de acesso | 20% |
-| 💭 Respostas às perguntas de reflexão | 20% |
 
 ---
 
