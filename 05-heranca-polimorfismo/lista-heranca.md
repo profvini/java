@@ -625,9 +625,3 @@ Por que os construtores executam de cima para baixo na hierarquia, mesmo que voc
 - [The Java™ Tutorials — Using the Keyword super](https://docs.oracle.com/javase/tutorial/java/IandI/super.html)
 - [The Java™ Tutorials — Writing Final Classes and Methods](https://docs.oracle.com/javase/tutorial/java/IandI/final.html)
 - [The Java™ Tutorials — Polymorphism](https://docs.oracle.com/javase/tutorial/java/IandI/polymorphism.html)
-
----
-
-<p align="center">
-  Bons estudos! Dúvidas? Abra uma <em>issue</em> neste repositório.
-</p>
