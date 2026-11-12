@@ -34,6 +34,7 @@ O objetivo deste repositório é servir como base de estudo, consulta e revisão
 ├── 02-estruturas-controle/  # Condicionais (if/else, switch) e laços (for, while)
 ├── 03-vetores-matrizes/     # Arrays unidimensionais e bidimensionais
 ├── 04-funcoes-metodos/      # Modularização, métodos e passagem de parâmetros
+├── 05-heranca-polimorfismo/ # Herança e Polimorfismo
 ```
 <!-- ├── 05-algoritmos-busca/     # Busca linear, busca binária
 ├── 06-algoritmos-ordenacao/ # Bubble Sort, Selection Sort, Insertion Sort, etc.
